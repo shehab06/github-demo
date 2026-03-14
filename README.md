@@ -1,4 +1,5 @@
 ﻿# GitHub Demo
+Change added by collaborator.
 
 A tiny demo repository for a static web page used in class exercises.
 
